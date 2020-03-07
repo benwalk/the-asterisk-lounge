@@ -19,6 +19,9 @@
     "styled-system": "5.1.5",
     "swr": "0.1.17"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "next",
