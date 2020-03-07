@@ -6,7 +6,7 @@ import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
 import DiceIcon from "@material-ui/icons/Casino";
 import Typography from "@material-ui/core/Typography";
-import Link from "next/Link";
+import Link from "next/link";
 
 const useStyles = makeStyles(theme => ({
   listIcon: {
